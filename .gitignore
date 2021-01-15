@@ -1,0 +1,8 @@
+__pycache__
+/.tox/
+/.coverage
+/.eggs/
+/*.egg-info/
+/.mypy_cache/
+/build/
+/dist/
